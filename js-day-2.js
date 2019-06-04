@@ -244,3 +244,4 @@ var strings = ["hi", "yo", "there", "what", "how", "two", "are", "where", "you"]
 for (let i = 0; i < strings.length; i+=2){
     console.log(strings[i]);
 }
+//change
